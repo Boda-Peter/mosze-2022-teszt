@@ -22,5 +22,7 @@ int main()
     }
     atlag /= N_ELEMENTS;
     std::cout << "Atlag: " << atlag << std::endl;
+
+    std::cout << "Mi az ami piros és roncsolja a fogakat? Tégla." << std::endl;
     return 0;
 }
